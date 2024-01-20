@@ -9,7 +9,7 @@ public class DailyTargetDeterminator {
 
 	// 20, 30, 50, 80
 	Integer[] transactionsList;
-	//	int[] transactionsList;
+	// int[] transactionsList;
 
 	// 125
 	Integer[] dailyTargets;
