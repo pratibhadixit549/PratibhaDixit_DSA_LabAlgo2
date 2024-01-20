@@ -44,7 +44,7 @@ public class DenominationsCalculator {
 	public void calculate() {
 
 		// Sorting
-//		Collections.sort(null, null);
+		// Collections.sort(null, null);
 
 		// Loop - while
 
