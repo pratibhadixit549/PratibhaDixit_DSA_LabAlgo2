@@ -61,7 +61,7 @@ public class DenominationsCalculator {
 		// Pending / BalanceAmount == 0
 		// break
 
-		//Collections.sor
+		// Collections.sor
 		Arrays.sort(denominations, Collections.reverseOrder());
 
 		System.out.println("After sorting...");

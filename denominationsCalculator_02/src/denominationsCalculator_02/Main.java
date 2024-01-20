@@ -8,7 +8,7 @@ public class Main {
 
 		calculator.collectDenominations();
 		calculator.collectPaymentAmount();
-
+		
 		// Example-02
 		// calculator.denominations = 
 		// new Integer[]{60, 5, 12, 78, 25};
